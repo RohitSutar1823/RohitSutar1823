@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi 👋, I'm Rohit Sutar
 
-<!--
-**RohitSutar1823/RohitSutar1823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year BTech CSE student
+💻 Learning Java DSA + Web Development
+🚀 Goal: Crack a good placement
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 What I'm Doing Currently
+
+- 📘 Learning Data Structures & Algorithms in Java
+- 🌐 Learning Web Development (HTML, CSS, JS)
+- 💡 Building projects during summer
+
+---
+
+🛠️ Skills (Learning Phase)
+
+- Java ☕
+- HTML, CSS 🌐
+- Git & GitHub 🧠
+
+---
+
+📅 Daily Goal
+
+- Solve at least 1 DSA problem
+- Improve coding + consistency
+
+---
+
+📫 Connect with Me
+
+- GitHub: https://github.com/RohitSutar1823
+
+---
+
+⭐ “Consistency beats talent when talent doesn’t work hard.”
