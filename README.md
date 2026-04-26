@@ -2,7 +2,6 @@ Hi 👋, I'm Rohit Sutar
 
 🎓 First-year BTech CSE student
 💻 Learning Java DSA + Web Development
-🚀 Goal: Crack a good placement
 
 ---
 
