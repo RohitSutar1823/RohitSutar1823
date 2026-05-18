@@ -1,37 +1,44 @@
-Hi 👋, I'm Rohit Sutar
+# Hi 👋, I'm Rohit Sutar
 
-🎓 First-year BTech CSE student
-💻 Learning Java DSA + Web Development
-
----
-
-🔥 What I'm Doing Currently
-
-- 📘 Learning Data Structures & Algorithms in Java
-- 🌐 Learning Web Development (HTML, CSS, JS)
-- 💡 Building projects during summer
+💻 Aspiring Software Developer focused on Java DSA and Full-Stack Web Development
 
 ---
 
-🛠️ Skills (Learning Phase)
+## 🚀 Currently Learning
 
-- Java ☕
-- HTML, CSS 🌐
-- Git & GitHub 🧠
-
----
-
-📅 Daily Goal
-
-- Solve at least 1 DSA problem
-- Improve coding + consistency
+* 📘 Data Structures & Algorithms in Java
+* 🌐 Web Development (HTML, CSS, JavaScript)
+* 🛠️ Git & GitHub
+* 💡 Building projects and improving problem-solving skills
 
 ---
 
-📫 Connect with Me
+## 🧠 Tech Stack
 
-- GitHub: https://github.com/RohitSutar1823
+* ☕ Java
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+* 🔧 Git & GitHub
+
+---
+
+## 📅 Goals
+
+* Solve DSA problems consistently
+* Build real-world projects
+* Improve coding and development skills
+* Grow as a software developer
+
+---
+
+## 📫 Connect With Me
+
+* 📍 Mumbai, India
+* 📧 [rohit1823sutar@gmail.com](mailto:rohit1823sutar@gmail.com)
+* 💼 [LinkedIn](https://linkedin.com/in/rohit-sutar-852364254)
 
 ---
 
 ⭐ “Consistency beats talent when talent doesn’t work hard.”
+
